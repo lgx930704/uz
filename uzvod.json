@@ -134,28 +134,13 @@
       "type": 100
     },
     {
-      "name": "天逸盘搜",
-      "version": 3,
-      "remark": "仅搜索",
-      "webSite": "https://www.tianyiso.com",
-      "codeID": "DU9z425w42hk9B8l",
-      "instance": "tianyiso20241129",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uz/refs/heads/main/vod/tianyiso.txt",
-      "type": 100
-    },
-    {
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-      "name": "天翼①",
-      "type": 0
-    },
-    {
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/json",
-      "name": "天翼②",
+      "name": "天翼资源",
       "type": 0
     },
     {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "name": "如意",
+      "name": "如意资源",
       "type": 0
     }
   ],
