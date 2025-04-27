@@ -135,7 +135,7 @@
     },
     {
       "name": "通用网盘",
-      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/bttywp.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/bttywp.js",
       "webSite": "https://www.tianyiso.com",
       "remark": "修改域名自动获取分类",
       "version": "666",
@@ -150,11 +150,6 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "name": "樱花资源",
       "type":0
-    },
-    {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "name": "如意资源",
-      "type": 0
     }
   ],
   "live": [
