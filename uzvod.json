@@ -134,14 +134,6 @@
       "type": 100
     },
     {
-      "name": "通用网盘",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/bttywp.js",
-      "webSite": "https://www.tianyiso.com",
-      "remark": "修改域名自动获取分类",
-      "version": "666",
-      "type": 101
-    },
-    {
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
       "name": "天翼资源",
       "type": 0
