@@ -41,6 +41,14 @@
       "type": 101
     },
     {
+      "name": "通用采集",
+      "version": 3,
+      "remark": "需配合网盘解析工具使用",
+      "webSite": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms.js",
+      "type": 101
+    },
+    {
       "name": "瓜子影视",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
@@ -117,14 +125,22 @@
     },
     {
       "name": "雷鲸小站",
-      "version": 4,
-      "remark": "天翼网盘",
-      "webSite": "https://www.leijing.xyz",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uz/refs/heads/main/vod/leijing.txt",
+      "webSite": "https://www.leijing.xyz",
+      "remark": "天翼网盘",
+      "version": "4",
       "type": 100
     },
+    {
+        "name": "通用网盘",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/bttywp.js",
+        "webSite": "https://www.tianyiso.com",
+        "remark": "修改域名自动获取分类",
+        "version": "666",
+        "type": 101
+    }
     {
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
       "name": "天翼资源",
