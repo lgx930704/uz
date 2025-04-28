@@ -12,8 +12,8 @@
   "panTools": [
     {
       "name": "网盘解析工具",
-      "version": 18,
-      "remark": "App v1.6.54 及以上版本可用",
+      "version": 19,
+      "remark": "App 1.6.54 及以上版本可用",
       "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
       "type": 300
@@ -33,17 +33,26 @@
     {
       "name": "囧次元",
       "version": 2,
-      "remark": "网站填写[https://jocy.app]会自动获取最新网址，也可以在环境变量修改[囧次元更新网址]的值为1",
-      "env": "囧次元更新网址##填写1,然后在首页源列表重新切换到囧次元,可更新手动更新网址",
+      "remark": "填写https://jocy.app，自动获取最新网址",
+      "env": "填写1,可更新更新网址",
       "webSite": "https://jocy.app",
       "codeID": "cm7OBqdp0KChaJ7bg2OhuAyTgt8ufeyJ",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jocy.js",
       "type": 101
     },
     {
+      "name": "通用解析",
+      "version": 1,
+      "remark": "官方采集扩展，在环境变量配置采集解析地址。",
+      "env": "格式：名称1@地址1;名称2@地址2",
+      "webSite": "https://zy.hls.one/api.php/provide/vod",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms2.js",
+      "type": 101
+    },
+    {
       "name": "通用采集",
       "version": 3,
-      "remark": "需配合网盘解析工具使用",
+      "remark": "需配合网盘解析工具使用，每次消耗所有解析次数。",
       "webSite": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms.js",
       "type": 101
@@ -110,6 +119,13 @@
       "type": 101
     },
     {
+      "name": "大玩偶盘",
+      "version": 1,
+      "webSite": "http://149.88.87.18:6688",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uz/refs/heads/main/vod/dawanou.js",
+      "type": 101
+    },
+    {
       "name": "多多网盘",
       "version": 3,
       "webSite": "https://tv.yydsys.top",
@@ -129,19 +145,9 @@
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
       "webSite": "https://www.leijing.xyz",
-      "remark": "天翼网盘",
+      "remark": "备用域名：leijing1.com",
       "version": "4",
       "type": 100
-    },
-    {
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-      "name": "天翼资源",
-      "type": 0
-    },
-    {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "name": "樱花资源",
-      "type":0
     }
   ],
   "live": [
