@@ -1,14 +1,4 @@
 {
-  "danMu": [
-    {
-      "name": "弹幕扩展",
-      "version": 10,
-      "remark": "搜不到就算了",
-      "codeID": "HyplMQ00pLZipW1jy1e9qTsjZbznKjq2",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu2.txt",
-      "type": 400
-    }
-  ],
   "panTools": [
     {
       "name": "网盘解析工具",
@@ -43,7 +33,7 @@
     {
       "name": "通用解析",
       "version": 1,
-      "remark": "官方采集扩展，在环境变量配置 采集解析地址。如采集服务不可用，请自行寻找更换采集地址。",
+      "remark": "如采集服务不可用，请自行寻找更换采集地址。",
       "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "webSite": "https://zy.hls.one/api.php/provide/vod",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms2.js",
@@ -52,27 +42,11 @@
     {
       "name": "瓜子影视",
       "version": 2,
-      "remark": "v1.6.53 及以上版本",
+      "remark": "App 1.6.53 及以上版本可用",
       "webSite": "https://api.9cec79d.com",
       "codeID": "ra5Z3wtXKshzSMK2",
       "instance": "gzapp20241001",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
-      "type": 100
-    },
-    {
-      "name": "金牌影视",
-      "version": 2,
-      "webSite": "https://www.ghw9zwp5.com",
-      "instance": "jpyy20240716",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jpyy.js",
-      "type": 100
-    },
-    {
-      "name": "在线之家",
-      "version": 2,
-      "webSite": "https://www.zxzja.com",
-      "instance": "zxzj20240620",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zxzj.js",
       "type": 100
     },
     {
@@ -85,15 +59,8 @@
     {
       "name": "木偶哥哥",
       "version": 2,
-      "webSite": "https://mo.91muou.icu",
+      "webSite": "666.666291.xyz",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
-      "type": 101
-    },
-    {
-      "name": "多多网盘",
-      "version": 3,
-      "webSite": "https://tv.yydsys.top",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/duoduo.js",
       "type": 101
     },
     {
@@ -117,23 +84,9 @@
       "name": "电报搜索",
       "version": 1,
       "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-      "webSite": "123云盘@zyfb123&豆儿盘@douerpan",
+      "webSite": "123云盘@zyfb123&豆儿盘@douerpan&天翼网盘@tianyirigeng",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
       "type": 101
-    }
-  ],
-  "live": [
-    {
-      "name": "电视直播",
-      "api": "https://tv.iill.top/m3u/Gather",
-      "type": 10,
-      "remark": "https://github.com/YanG-1989"
-    },
-    {
-      "name": "网络直播",
-      "api": "https://tv.iill.top/m3u/Live",
-      "type": 10,
-      "remark": "https://github.com/YanG-1989"
     }
   ]
 }
