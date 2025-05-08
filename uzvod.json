@@ -59,14 +59,14 @@
     {
       "name": "木偶哥哥",
       "version": 2,
-      "webSite": "666.666291.xyz",
+      "webSite": "http://123.666291.xyz",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
       "type": 101
     },
     {
       "name": "王二小盘",
       "version": 3,
-      "webSite": "https://xhww.net",
+      "webSite": "https://erxiaofn.site",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uz/refs/heads/main/vod/erxiao.js",
       "type": 101
     },
@@ -84,7 +84,7 @@
       "name": "电报搜索",
       "version": 1,
       "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-      "webSite": "123云盘@zyfb123&豆儿盘@douerpan&天翼网盘@tianyirigeng",
+      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&木偶UC@ucpanpan&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
       "type": 101
     }
