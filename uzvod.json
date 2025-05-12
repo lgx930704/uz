@@ -27,25 +27,28 @@
       "env": "囧次元更新网址##填写1,然后在首页源列表重新切换到囧次元,可更新手动更新网址",
       "webSite": "https://jocy.app",
       "codeID": "cm7OBqdp0KChaJ7bg2OhuAyTgt8ufeyJ",
+      "order": "C",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jocy.js",
       "type": 101
     },
     {
       "name": "通用解析",
       "version": 1,
-      "remark": "如采集服务不可用，请自行寻找更换采集地址。",
+      "remark": "通用官采解析2，需配合网盘解析工具使用。在环境变量配置 采集解析地址。",
       "env": "采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "webSite": "https://zy.hls.one/api.php/provide/vod",
+      "order": "A",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/cms2.js",
       "type": 101
     },
     {
       "name": "瓜子影视",
       "version": 2,
-      "remark": "App 1.6.53 及以上版本可用",
+      "remark": "v1.6.53 及以上版本",
       "webSite": "https://api.9cec79d.com",
       "codeID": "ra5Z3wtXKshzSMK2",
       "instance": "gzapp20241001",
+      "order": "C",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
       "type": 100
     },
@@ -53,40 +56,53 @@
       "name": "玩偶哥哥",
       "version": 3,
       "webSite": "http://wogg.xxooo.cf",
+      "order": "B",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/wobg.js",
       "type": 101
     },
     {
       "name": "木偶哥哥",
       "version": 2,
-      "webSite": "http://123.666291.xyz",
+      "webSite": "https://666.666291.xyz",
+      "order": "B",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
       "type": 101
     },
     {
-      "name": "王二小盘",
-      "version": 3,
-      "webSite": "https://erxiaofn.site",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uz/refs/heads/main/vod/erxiao.js",
+      "name": "奥秘网盘",
+      "version": 2,
+      "webSite": "https://vip.omii.top/",
+      "order": "B",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/aomipan.js",
+      "type": 101
+    },
+    {
+      "name": "清影网盘",
+      "version": 1,
+      "remark": "资源不全，加载不出来就是空资源",
+      "webSite": "https://www.revohd.com",
+      "order": "B",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/revohd.js",
+      "type": 101
+    },
+    {
+      "name": "二小网盘",
+      "version": 1,
+      "webSite": "https://2xiaopan.fun",
+      "order": "B",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/erxiao.js",
       "type": 101
     },
     {
       "name": "雷鲸小站",
-      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
+      "version": 4,
+      "remark": "备用域名：leijing1.com",
+      "webSite": "https://www.leijing.xyz",
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
-      "webSite": "https://www.leijing.xyz",
-      "remark": "备用域名：leijing1.com",
-      "version": "4",
+      "order": "B",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/leijing.txt",
       "type": 100
-    },
-    {
-      "name": "电报搜索",
-      "version": 1,
-      "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&木偶UC@ucpanpan&夸克电影@alyp_4K_Movies&夸克剧集@alyp_TV&夸克动漫@alyp_Animation",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
-      "type": 101
     }
   ]
 }
