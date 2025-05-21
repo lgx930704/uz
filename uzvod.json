@@ -59,22 +59,6 @@
       "type": 101
     },
     {
-      "name": "奥秘网盘",
-      "version": 2,
-      "webSite": "https://vip.omii.top/",
-      "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/aomipan.js",
-      "type": 101
-    },
-    {
-      "name": "清影网盘",
-      "version": 1,
-      "webSite": "https://revohd.com",
-      "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/qingying.js",
-      "type": 101
-    },
-    {
       "name": "二小网盘",
       "version": 1,
       "webSite": "https://2xiaopan.fun",
