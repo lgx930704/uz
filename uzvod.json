@@ -43,19 +43,11 @@
       "type": 100
     },
     {
-      "name": "玩偶哥哥",
-      "version": 3,
-      "webSite": "http://wogg.xxooo.cf",
+      "name": "清影网盘",
+      "version": 1,
+      "webSite": "https://revohd.com",
       "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/wobg.js",
-      "type": 101
-    },
-    {
-      "name": "木偶哥哥",
-      "version": 2,
-      "webSite": "https://666.666291.xyz",
-      "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/qingying.js",
       "type": 101
     },
     {
@@ -81,6 +73,7 @@
       "name": "电报搜索",
       "version": 1,
       "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
+      "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
       "webSite": "123@yp123pan&天翼@tianyirigeng&整合@yunpansall",
       "order": "B",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
