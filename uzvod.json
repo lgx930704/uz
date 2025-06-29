@@ -2,10 +2,10 @@
   "panTools": [
     {
       "name": "网盘解析工具",
-      "version": 21,
+      "version": 22,
       "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
       "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
       "type": 300
     }
   ],
@@ -32,6 +32,16 @@
       "type": 101
     },
     {
+      "name": "HDmoli",
+      "version": 2,
+      "remark": "支持在线播放和网盘",
+      "webSite": "https://www.hdmoli.pro/",
+      "codeID": "OAxUOePWsN3I7NQfNIO9Il1I1cgolbSa",
+      "order": "A",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Zong_HDmoli.txt",
+      "type": 101
+    },
+    {
       "name": "瓜子影视",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
@@ -41,22 +51,6 @@
       "order": "C",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
       "type": 100
-    },
-    {
-      "name": "清影网盘",
-      "version": 1,
-      "webSite": "https://revohd.com",
-      "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/qingying.js",
-      "type": 101
-    },
-    {
-      "name": "二小网盘",
-      "version": 1,
-      "webSite": "https://2xiaopan.fun",
-      "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/erxiao.js",
-      "type": 101
     },
     {
       "name": "雷鲸小站",
@@ -70,13 +64,24 @@
       "type": 100
     },
     {
-      "name": "电报搜索",
-      "version": 1,
-      "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-      "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
+      "name": "天逸搜",
+      "version": 3,
+      "remark": "仅搜索",
+      "webSite": "https://www.tianyiso.com",
+      "codeID": "DU9z425w42hk9B8l",
+      "instance": "tianyiso20241129",
+      "order": "B",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tianyiso.txt",
+      "type": 100
+    },
+    {
+      "name": "电报搜",
+      "version": 5,
+      "remark": "免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
+      "env": "TG搜API地址##https://tgsou.252035.xyz",
       "webSite": "123@yp123pan&天翼@tianyirigeng&整合@yunpansall",
       "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs_api.js",
       "type": 101
     }
   ]
