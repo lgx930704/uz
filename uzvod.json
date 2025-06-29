@@ -9,16 +9,6 @@
       "type": 300
     }
   ],
-  "recommend": [
-    {
-      "name": "豆瓣推荐",
-      "version": 4,
-      "remark": "iOS14 以上版本可用",
-      "codeID": "hZC5h9Id3nP6mwaolSXqNemBLQCMFqhw",
-      "api":“https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/recommend/js/douban.txt",
-      "type": 200
-    }
-  ],
   "vod": [
     {
       "name": "囧次元",
