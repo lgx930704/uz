@@ -15,7 +15,7 @@
       "version": 4,
       "remark": "iOS14 以上版本可用",
       "codeID": "hZC5h9Id3nP6mwaolSXqNemBLQCMFqhw",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/recommend/js/douban.txt",
+      "api":“https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/recommend/js/douban.txt",
       "type": 200
     }
   ],
@@ -28,7 +28,7 @@
       "webSite": "https://jocy.app",
       "codeID": "cm7OBqdp0KChaJ7bg2OhuAyTgt8ufeyJ",
       "order": "C",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jocy.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jocy.js",
       "type": 101
     },
     {
@@ -49,7 +49,7 @@
       "codeID": "ra5Z3wtXKshzSMK2",
       "instance": "gzapp20241001",
       "order": "C",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
       "type": 100
     },
     {
@@ -60,7 +60,7 @@
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
       "order": "B",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/leijing.txt",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/leijing.txt",
       "type": 100
     },
     {
