@@ -11,17 +11,6 @@
   ],
   "vod": [
     {
-      "name": "囧次元",
-      "version": 2,
-      "remark": "网站填写[https://jocy.app]会自动获取最新网址，也可以在环境变量修改[囧次元更新网址]的值为1",
-      "env": "囧次元更新网址##填写1,然后在首页源列表重新切换到囧次元,可更新手动更新网址",
-      "webSite": "https://jocy.app",
-      "codeID": "cm7OBqdp0KChaJ7bg2OhuAyTgt8ufeyJ",
-      "order": "C",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jocy.js",
-      "type": 101
-    },
-    {
       "name": "HDmoli",
       "version": 2,
       "remark": "🍃豆儿出品，不属精品！支持在线播放和网盘",
@@ -51,16 +40,6 @@
       "type": 101
     },
     {
-      "name": "校长网盘",
-      "version": 1,
-      "remark": "🍃豆儿出品，不属精品！",
-      "webSite": "https://xzys.fun",
-      "codeID": "7T4PFJobJZegoH1hLUyEL1HOGSoNuwR6",
-      "order": "B",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Pan_xzys.txt",
-      "type": 101
-    },
-    {
       "name": "雷鲸小站",
       "version": 4,
       "remark": "备用域名：leijing1.com",
@@ -72,17 +51,7 @@
       "type": 100
     },
     {
-      "name": "电报搜1",
-      "version": 6,
-      "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
-      "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
-      "webSite": "123@yp123pan&天翼@tianyirigeng&整合@yunpansall",
-      "order": "B",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs.js",
-      "type": 101
-    },
-    {
-      "name": "电报搜2",
+      "name": "电报搜",
       "version": 5,
       "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
