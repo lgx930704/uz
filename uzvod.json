@@ -37,6 +37,16 @@
       "type": 101
     },
     {
+      "name": "电报代理",
+      "version": 6,
+      "remark": "格式 频道名称1@频道id1&频道名称2@频道id2",
+      "env": "TG搜代理地址##默认直接访问 https://t.me/s/ 有自己的代理服务填入即可，没有不用改动。",
+      "webSite": "123@yp123pan&天翼@tianyirigeng&综合@yunpansall",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/tgs.js",
+      "type": 101
+    },
+    {
       "name": "天逸搜",
       "version": 3,
       "remark": "来自proversion2024，仅搜索",
