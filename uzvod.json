@@ -13,13 +13,13 @@
   "vod": [
     {
       "name": "瓜子影视",
-      "version": 2,
-      "remark": "v1.6.53 及以上版本",
-      "webSite": "https://api.9cec79d.com",
+      "version": 3,
+      "remark": "瓜子APP",
+      "webSite": "https://api.gudvxty.com",
       "codeID": "ra5Z3wtXKshzSMK2",
       "instance": "gzapp20241001",
       "order": "C",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/gzapp.txt",
       "type": 100
     },
     {
