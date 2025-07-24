@@ -11,7 +11,7 @@
     }
   ],
   "vod": [
-     {
+    {
       "api": "https://mozhuazy.com/api.php/provide/vod/",
       "name": "魔爪",
       "order": "E",
@@ -27,7 +27,7 @@
       "order": "C",
       "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/gzapp.txt",
       "type": 100
-    },
+    },    
     {
       "name": "修罗影视",
       "version": 2,
