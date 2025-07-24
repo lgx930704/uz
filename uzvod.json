@@ -11,6 +11,12 @@
     }
   ],
   "vod": [
+     {
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "name": "魔爪",
+      "order": "E",
+      "type": 0
+    },
     {
       "name": "瓜子影视",
       "version": 3,
@@ -31,14 +37,14 @@
       "type": 101
     },
     {
-      "name": "雷鲸小站",
-      "version": 4,
-      "remark": "来自proversion2024",
-      "webSite": "https://www.leijing.xyz",
-      "codeID": "GgryhjYVgQMDUw4f",
-      "instance": "leiJing20241126",
+      "name": "天逸搜",
+      "version": 3,
+      "remark": "来自proversion2024，仅搜索",
+      "webSite": "https://www.tianyiso.com",
+      "codeID": "DU9z425w42hk9B8l",
+      "instance": "tianyiso20241129",
       "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/leijing.txt",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/tianyiso.txt",
       "type": 100
     },
     {
@@ -46,16 +52,10 @@
       "version": 5,
       "remark": "格式：频道名称@频道id|搜索数量&频道名称@频道id",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
-      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd",
+      "webSite": "123@yp123pan&天翼@tianyirigeng&综合@yunpansall",
       "order": "B",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs_api.js",
       "type": 101
-      },
-     {
-      "api": "https://mozhuazy.com/api.php/provide/vod/",
-      "name": "魔爪",
-      "order": "E",
-      "type": 0
     }
   ]
 }
