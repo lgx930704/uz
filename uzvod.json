@@ -33,12 +33,12 @@
     {
       "name": "雷鲸小站",
       "version": 4,
-      "remark": "备用域名：leijing1.com",
+      "remark": "来自proversion2024",
       "webSite": "https://www.leijing.xyz",
       "codeID": "GgryhjYVgQMDUw4f",
       "instance": "leiJing20241126",
       "order": "B",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/leijing.txt",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/leijing.txt",
       "type": 100
     },
     {
