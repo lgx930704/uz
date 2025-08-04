@@ -24,12 +24,6 @@
       "type": 0
     },
     {
-      "api": "http://43.154.198.47:8282/gather/json",
-      "name": "人人影视",
-      "order": "E",
-      "type": 0
-    },
-    {
       "name": "木偶网盘",
       "version": 3,
       "webSite": "http://123.666291.xyz",
