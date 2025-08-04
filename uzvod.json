@@ -18,22 +18,23 @@
       "type": 0
     },
     {
-      "name": "瓜子影视",
-      "version": 3,
-      "remark": "瓜子APP",
-      "webSite": "https://api.gudvxty.com",
-      "codeID": "ra5Z3wtXKshzSMK2",
-      "instance": "gzapp20241001",
-      "order": "C",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/gzapp.txt",
-      "type": 100
-    },    
+      "api": "http://dyttzyw.com/api.php/provide/vod/",
+      "name": "电影天堂",
+      "order": "E",
+      "type": 0
+    },
     {
-      "name": "修罗影视",
-      "version": 2,
-      "webSite": "https://xl01.com.de",
-      "order": "C",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/biliys.js",
+      "api": "http://43.154.198.47:8282/gather/json",
+      "name": "人人影视",
+      "order": "E",
+      "type": 0
+    },
+    {
+      "name": "木偶网盘",
+      "version": 3,
+      "webSite": "http://123.666291.xyz",
+      "order": "A02",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_mogg.js",
       "type": 101
     },
     {
@@ -58,13 +59,13 @@
       "type": 100
     },
     {
-      "name": "电报搜",
+      "name": "TG纯搜",
       "version": 5,
-      "remark": "格式：频道名称@频道id|搜索数量&频道名称@频道id",
+      "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
-      "webSite": "123@yp123pan&天翼@tianyirigeng&综合@yunpansall",
-      "order": "B",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tgs_api.js",
+      "webSite": "123@yp123pan&天翼@tianyirigeng&综合@yunpansall&云巢@peccxinpd",
+      "order": "A18",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_tgs_api.js",
       "type": 101
     }
   ]
