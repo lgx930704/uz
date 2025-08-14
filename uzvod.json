@@ -2,7 +2,7 @@
   "panTools": [
     {
       "name": "网盘解析工具",
-      "version": 23,
+      "version": 24,
       "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
       "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "order": "A",
@@ -24,19 +24,11 @@
       "type": 0
     },
     {
-      "name": "木偶网盘",
-      "version": 3,
-      "webSite": "http://123.666291.xyz",
-      "order": "A02",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_mogg.js",
-      "type": 101
-    },
-    {
       "name": "小斑网盘",
-      "version": 1,
+      "version": 2,
       "remark": "🍃豆儿出品，不属精品！玩偶模板站通用自适应，更换域名即可，默认小斑占位",
       "webSite": "http://xsayang.fun:12512",
-      "codeID": "GQVweaJQFQpBuOIT46NXyxlMOUH4Ovsk",
+      "codeID": "o1yPDSn0NzqTIM7iqs1EcTbsIU4TVDdI",
       "order": "A10",
       "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_zishiying.txt",
       "type": 101
@@ -53,11 +45,11 @@
       "type": 100
     },
     {
-      "name": "TG纯搜",
-      "version": 5,
+      "name": "TG搜",
+      "version": 6,
       "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
-      "webSite": "123@yp123pan&天翼@tianyirigeng&综合@yunpansall&云巢@peccxinpd",
+      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
       "order": "A18",
       "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_tgs_api.js",
       "type": 101
