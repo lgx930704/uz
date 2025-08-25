@@ -18,11 +18,22 @@
       "type": 0
     },
     {
-      "api": "http://dyttzyw.com/api.php/provide/vod/",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
       "name": "电影天堂",
       "order": "E",
       "type": 0
     },
+    {
+      "name": "瓜子影视",
+      "version": 3,
+      "remark": "瓜子APP",
+      "webSite": "https://api.gudvxty.com",
+      "codeID": "ra5Z3wtXKshzSMK2",
+      "instance": "gzapp20241001",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gzapp.txt",
+      "type": 100
+    },    
     {
       "name": "小斑网盘",
       "version": 2,
@@ -45,7 +56,7 @@
       "type": 100
     },
     {
-      "name": "TG搜",
+      "name": "电报搜索",
       "version": 6,
       "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
