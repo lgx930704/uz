@@ -2,9 +2,9 @@
   "panTools": [
     {
       "name": "网盘解析工具",
-      "version": 24,
+      "version": 30,
       "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
-      "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
+      "env": "百度网盘Cookie##用于播放百度网盘视频&&UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频&&采集解析地址##内置两个，失效不要反馈。格式：名称1@地址1;名称2@地址2",
       "order": "A",
       "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/panTools/js/panTools2.js",
       "type": 300
@@ -12,17 +12,15 @@
   ],
   "vod": [
     {
-      "api": "https://mozhuazy.com/api.php/provide/vod/",
-      "name": "魔爪",
-      "order": "E",
-      "type": 0
-    },
-    {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
-      "name": "电影天堂",
-      "order": "E",
-      "type": 0
-    },
+      "name": "豆瓣推荐",
+      "version": 3,
+      "remark": "🍃豆儿出品，不属精品！",
+      "webSite": "https://movie.douban.com",
+      "codeID": "SiU95hHc6tmlpYMzdZ8CgCi6izNKs2dT",
+      "order": "A00",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Jian_douban2.txt",
+      "type": 101
+    },    
     {
       "name": "瓜子影视",
       "version": 3,
@@ -46,21 +44,20 @@
     },
     {
       "name": "雷鲸小站",
-      "version": 4,
-      "remark": "来自proversion2024",
-      "webSite": "https://www.leijing.xyz",
-      "codeID": "GgryhjYVgQMDUw4f",
-      "instance": "leiJing20241126",
+      "version": 1,
+      "remark": "🍃豆儿出品，不属精品！",
+      "webSite": "https://www.leijing.xyz/",
+      "codeID": "mQuJDktDs81PNT2i0XJ2Udvo1u9xrkA6",
       "order": "A13",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_leijing.txt",
-      "type": 100
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_leijing2.txt",
+      "type": 101
     },
     {
       "name": "电报搜索",
-      "version": 6,
+      "version": 7,
       "remark": "🍃豆儿出品，不属精品！免代理纯搜索，格式 频道名称@频道id|搜索数量&频道名称@频道id，支持自定义每频道搜索数量，默认3个",
       "env": "TG搜API地址##https://tgsou.252035.xyz",
-      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&云巢@peccxinpd",
+      "webSite": "123资源@zyfb123&天翼日更@tianyirigeng&百度@BaiduCloudDisk",
       "order": "A18",
       "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Pan_tgs_api.js",
       "type": 101
